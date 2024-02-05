@@ -41,3 +41,6 @@ The project is implemented using the following steps:
 1. Clone the repository:
    ```bash
    git clone  https://github.com/Nitin02-10-2000/tweeter-sentiments.git
+2. Navigate to the project directory:
+   ```bash
+   cd tweeter-sentiments
